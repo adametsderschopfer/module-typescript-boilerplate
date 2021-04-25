@@ -2,12 +2,12 @@
   "name": "module-typescript-boilerplate",
   "version": "1.0.3",
   "description": "",
-  "main": "lib/async-dom-observer.js",
+  "main": "lib/module-typescript-boilerplate.js",
   "scripts": {
     "start": "cross-env NODE_ENV=development nodemon ./src/index.ts --exec webpack -p",
     "build": "cross-env NODE_ENV=production webpack -p"
   },
-  "keywords": ["dom-observer", "components"],
+  "keywords": ["module-typescript-boilerplate"],
   "author": "Adametsofficial <av.styledev@gmail.com>",
   "license": "MIT",
   "devDependencies": {
