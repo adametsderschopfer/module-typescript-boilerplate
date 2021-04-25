@@ -15,7 +15,7 @@ module.exports = {
         extensions: ['.ts', '.tsx', '.js'],
     },
     output: {
-        filename: 'async-dom-observer.js',
+        filename: 'module-typescript-boilerplate.js',
         path: path.join(__dirname, '/lib'),
     },
     mode: dev ? 'development' : 'production',
